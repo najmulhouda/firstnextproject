@@ -2,7 +2,9 @@
 const page = () => {
   return (
     <div>
-      <h1>Next js is awsome</h1>
+      <h1>Working on next js
+        
+      </h1>
     </div>
   )
 }
